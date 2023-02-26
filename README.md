@@ -32,11 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anmonzi&theme=calm)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmonzi&layout=compact&theme=vision-friendly-dark)](https://github.com/anmonzi/github-readme-stats)
 
 <!--
 **anmonzi/anmonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,6 +46,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### :fire: Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anmonzi&theme=calm&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmonzi&layout=compact&count_private=true)](https://github.com/anmonzi/github-readme-stats)
+[![anmonzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmonzi&count_private=true)](https://github.com/anmonzi/github-readme-stats)
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Nashville, TN.
