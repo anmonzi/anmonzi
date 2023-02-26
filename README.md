@@ -2,8 +2,11 @@
   <img src="https://media.giphy.com/media/Vhv8ykxg2BHzK6Fpn7/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ashtonsnoww/" target="_blank">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ashtonsnoww/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.ashtonsnow.com/">
+    <img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ashton Snow's Website Badge"/>
   </a>
 </div>
 <div id="views" align="center">
